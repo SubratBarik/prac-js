@@ -1,0 +1,2 @@
+# prac-js
+Practising JavaScript
